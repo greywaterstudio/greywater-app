@@ -23,7 +23,7 @@
 	/>
 	<hr class="mx-auto w-1/2 bg-black" />
 
-	<Video source="assets/vid/trailer.mov" />
+	<Video source="https://csafe.locki.cloud/0FkkEDJm.mov" />
 	<hr class="mx-auto w-1/2 bg-black" />
 
 	<Projects />
