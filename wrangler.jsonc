@@ -11,8 +11,8 @@
 		"binding": "ASSETS",
 		"directory": ".svelte-kit/cloudflare"
 	},
-	"site":{
-		"bucket":"./public",
+	"site": {
+		"bucket": "./public"
 	},
 	"observability": {
 		"enabled": true
