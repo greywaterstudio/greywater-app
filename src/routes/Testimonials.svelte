@@ -3,16 +3,16 @@
 
 	const quotes = [
 		{
-			from: 'Weatherman, Community Manager',
-			text: 'The eggheads back in the lab will develope a feature that will allow me to kick you in the balls online. Real life distance does not matter. I will kick you in the balls.'
+			from: 'Goldem Yemgert, player',
+			text: 'I LOVED EVERY SECOND OF THIS, EVERY FIBER OF MY BEING WAS SPENT HAVING A BLAST PLAYING THIS SERVER! THIS ONE TIME A BLACK GUY STARTED FOLLOWING A CP AND THE DVL WENT MENTAL AND GUNNED HIM DOWN AND IT WAS SUPER FUNNY! THE LACK OF A GOD MAKES IT BETTER! 10/10, WOULD RECOMEND IT!'
 		},
 		{
-			from: 'jlorraine318, Player',
-			text: 'Cool to see Pinecrest back in action.'
+			from: 'mrbond730, Security Guard',
+			text: 'best server ever i loved the guitar i loved the [unintelligble] i hitta deer i gat gunned down'
 		},
 		{
-			from: 'bongwater, Alcoholic',
-			text: 'Drop the black!! Drop the black!!'
+			from: 'John Filker, lobotomite',
+			text: 'i killed many cop and i am happy!! rebelz rool'
 		}
 	];
 </script>
