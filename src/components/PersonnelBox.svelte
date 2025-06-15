@@ -2,17 +2,13 @@
 	export let name: string;
 	export let avatar: string;
 	export let position: string;
-	export let gradient: string;
+	export let link: string;
 
 	const baseClass =
 		'w-1xl mx-auto flex flex-col rounded-3xl border border-2 border-solid border-zinc-600/50 px-2 py-6 shadow-xl backdrop-blur-lg backdrop-brightness-100 sm:w-full sm:flex-col';
 	let newClass = baseClass;
 
-	if (gradient) {
-		newClass = newClass + ' bg-linear-to-t ' + gradient;
-	} else {
-		newClass = newClass + ' bg-zinc-950/10';
-	}
+	newClass = newClass + ' bg-zinc-950/10';
 </script>
 
 <div class={newClass}>
@@ -22,7 +18,7 @@
 		class="mb-6 w-1/2 place-self-center rounded-full border border-2 border-solid border-zinc-600/50"
 	/>
 
-	<h3 class="text-center text-3xl text-white">{name}</h3>
+	<a href={link} class="text-center text-3xl text-white">{name}</a>
 	<p class="mt-2 hidden text-center text-2xl text-slate-400 sm:block">
 		{position}
 	</p>

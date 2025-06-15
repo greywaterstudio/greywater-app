@@ -26,11 +26,11 @@
 				Our online Half-Life role-playing game. Immersive atmosphere, swamped bureaucracy, and
 				brutal combat. There's never a moment in the city.
 			</p>
-			<a href="https://discord.com/invite/sqd5D9mBpW" target="_blank">
+			<a href="/pinecrest">
 				<p
 					class="mb-6 text-center text-xl font-bold text-blue-300 underline sm:text-left sm:text-2xl"
 				>
-					Join the Discord.
+					Learn More
 				</p>
 			</a>
 		</div>

@@ -36,7 +36,7 @@
 					before:rounded
 					before:bg-white
 					before:content-['']
-					
+
 					after:absolute
 					after:h-1
 					after:w-8
@@ -49,7 +49,9 @@
 				<!-- &#9776 -->
 			</button>
 			<nav class="slide-class hidden space-x-8 text-xl md:block" aria-label="main">
+				<a href="/" class="hover:opacity-80">Home</a>
 				<a href="/team" class="hover:opacity-80">Team</a>
+				<a href="/pinecrest" class="hover:opacity-80">Pinecrest 2</a>
 				<a href="#footer" class="hover:opacity-80">Legal</a>
 			</nav>
 		</div>
@@ -62,6 +64,7 @@
 		<nav class="flex min-h-screen flex-col items-center py-8" aria-label="mobile">
 			<a href="/" class="w-full py-6 text-center hover:opacity-90">Home</a>
 			<a href="/team" class="w-full py-6 text-center hover:opacity-90">Team</a>
+			<a href="/pinecrest" class="w-full py-6 text-center hover:opacity-90">Pinecrest 2</a>
 			<a href="#footer" class="w-full py-6 text-center hover:opacity-90">Legal</a>
 		</nav>
 	</section>

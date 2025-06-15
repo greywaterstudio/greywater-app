@@ -3,8 +3,8 @@
 
 	const quotes = [
 		{
-			from: 'Goldem Yemgert, player',
-			text: 'I LOVED EVERY SECOND OF THIS, EVERY FIBER OF MY BEING WAS SPENT HAVING A BLAST PLAYING THIS SERVER! THIS ONE TIME A BLACK GUY STARTED FOLLOWING A CP AND THE DVL WENT MENTAL AND GUNNED HIM DOWN AND IT WAS SUPER FUNNY! THE LACK OF A GOD MAKES IT BETTER! 10/10, WOULD RECOMEND IT!'
+			from: 'Hitler Bean',
+			text: 'The server is overall really well put together outside of the odd bug,  the features and immersion are well made!'
 		},
 		{
 			from: 'mrbond730, Security Guard',

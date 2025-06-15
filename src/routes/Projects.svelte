@@ -4,12 +4,20 @@
 
 	const projects = [
 		{
-			name: 'Pinecrest',
+			name: 'Outlands-RP',
+			desc: 'Wilderness survival game',
+			image: 'assets/img/logo-outlandsrp.png'
+		},
+		{
+			name: 'Pinecrest 1',
 			desc: 'Online Half-Life 2 role-playing game',
 			image: 'assets/img/logo-pinecrest.png'
 		},
-		{ name: 'Evenfall', desc: 'Outlands Survival Gamemode', image: 'assets/img/logo-evenfall.png' },
-		{ name: 'e5', desc: 'No-boilerplate RP framework', image: 'assets/img/logo-e5.png' }
+		{
+			name: 'Evenfall KTB',
+			desc: 'Combine Overwatch campaign',
+			image: 'assets/img/logo-evenfall.png'
+		},
 	];
 </script>
 
